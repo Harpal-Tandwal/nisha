@@ -24,7 +24,7 @@ function CardDetails() {
   return (
     <>
       <div className="container mt-2">
-        <h2 className='text-center'>Iteams Details Page
+        <h2 className='text-center' style={{fontFamily:"roboto"}}>Iteams Details 
         </h2>
 
         <section className='container mt-3'>
@@ -42,9 +42,9 @@ function CardDetails() {
           <tbody>
             <tr>
             <td>
-              <p><strong>Restaurant </strong> : {rname}</p>
+              <p><strong>Name </strong> : {rname}</p>
               <p><strong>price </strong> : ₹ {price}</p>
-              <p><strong>Dishes </strong> : {address}</p>
+              <p><strong>attention !! </strong> : to be out of stock soon..</p>
               <p><strong>Total </strong> : ₹ {price*qnty}</p>
                 <div className="mt-5 d-flex justify-content-between align-items-center " style={{width :100, cursor:"pointer", background:"#ddd", color:"#111"}}>
                     <span style={{fontSize:24}}onClick={qnty <=1 ? ()=>dlt(id) :()=>{remove(element)}}>- </span>

@@ -68,7 +68,7 @@ function Header() {
         <div className='card_details' style={{width:"24rem", padding:10}}>
         <Table>
           <thead>
-            <tr> <th>Photos</th> <th> Restaurant Name</th></tr>
+            <tr> <th>Photos</th> <th> Details</th></tr>
                 
           </thead>
           <tbody>

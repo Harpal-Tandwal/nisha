@@ -1,8 +1,8 @@
 const Cardsdata = [
     {
         id: 1,
-        rname: "Massala Theoryy",
-        imgdata: "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
+        rname: "Climbing shoes",
+        imgdata: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYg8mRsQqkNnUYKtSPhv-RkXzOya1qEYK3HQ&usqp=CAU",
         address: "North Indian, Biryani, Mughlai",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 1175 + order placed from here recently",
@@ -13,8 +13,8 @@ const Cardsdata = [
     },
     {
         id: 2,
-        rname: "Jugaadi Adda",
-        imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/19295245/089cbcf1d3307542c72f77272556b28b_o2_featured_v2.jpg?output-format=webp",
+        rname: "Ropes",
+        imgdata: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQhoHMLBLDdxyHIV5M8MUA0sUA_B4Ma7-kQ&usqp=CAU",
         address: "Street Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 2525 + order placed from here recently",
@@ -25,8 +25,8 @@ const Cardsdata = [
     },
     {
         id: 3,
-        rname: "La Milano Pizzeria",
-        imgdata: "https://b.zmtcdn.com/data/pictures/chains/1/19708611/10f90d4a69678d98662514d173b29665_o2_featured_v2.jpg",
+        rname: " Tent",
+        imgdata: "https://uploads-ssl.webflow.com/6023e4108b39993f05f8e21a/615fe92e7c91ffb2a9314861_sam-marx-IejSZKGu1mY-unsplash.jpg",
         address: "Pizza, Fast Food, Pasta",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 650 + order placed from here recently",
@@ -37,8 +37,8 @@ const Cardsdata = [
     },
     {
         id: 4,
-        rname: "Momoman",
-        imgdata: "https://b.zmtcdn.com/data/pictures/chains/1/113401/59f29399060caefcc575d59dc9402ce8_o2_featured_v2.jpg",
+        rname: " Emergency Food Kit",
+        imgdata: "https://content.backcountry.com/images/items/1200/MHS/MHS001S/ONECOL.jpg",
         address: "Momos",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 300 + order placed from here recently",
@@ -49,8 +49,8 @@ const Cardsdata = [
     },
     {
         id: 5,
-        rname: "Jassi De Parathe",
-        imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/110225/3978e28854b7496dbef9496546734811_o2_featured_v2.jpg",
+        rname: "Helemt",
+        imgdata: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjU2loBFpbq_bUPlfo-ma84woEIWqg3T0Dvw&usqp=CAU",
         address: "North Indian",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1050 + order placed from here recently",
@@ -61,8 +61,8 @@ const Cardsdata = [
     },
     {
         id: 6,
-        rname: "Anjoy Latenight Meals",
-        imgdata: "https://b.zmtcdn.com/data/pictures/5/113895/3c06f6fbb8f667a2537dfdb6f060dc8b_o2_featured_v2.jpg",
+        rname: "Water Cane",
+        imgdata: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7yXiKw39opCaG2KijPiDsAvwd15pLHUhsw&usqp=CAU",
         address: "Wraps FastFood, Chines",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 1100 + order placed from here recently",
@@ -70,43 +70,7 @@ const Cardsdata = [
         rating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
          qnty:0
-    },
-    {
-        id: 7,
-        rname: "Hocco Eatery",
-        imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/110155/811c01a5430d50d3260f77917da99e12_o2_featured_v2.jpg",
-        address: "North Indian, Fast Food",
-        delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-        somedata: "500 + order placed from here recently",
-        price: 300,
-        rating: "3.8",
-        arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         qnty:0
-    },
-    {
-        id: 8,
-        rname: "Chai Wai",
-        imgdata: "https://b.zmtcdn.com/data/pictures/3/18514413/0a17b72e9fec52a3ca736f4c2ea3646f_o2_featured_v2.jpg",
-        address: "Tea, Coffee, Shake, Beverages",
-        delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-        somedata: "500 + order placed from here recently",
-        price: 100,
-        rating: "3.2",
-        arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         qnty:0
-    },
-    {
-        id: 9,
-        rname: "HL Frankie",
-        imgdata: "https://b.zmtcdn.com/data/pictures/7/19639627/94c0a4cf15c02d3982d154e2c5dd8cbb_o2_featured_v2.jpg",
-        address: "Burger, Sandwich, Fast Food",
-        delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
-        somedata: "2525 + order placed from here recently",
-        price: 100,
-        rating: "3.8",
-        arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         qnty:0
-    },
+    }
 ];
 
 export default Cardsdata;
